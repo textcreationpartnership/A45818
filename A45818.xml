@@ -1,0 +1,635 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iter Australe attempting something upon the happy return of our most gracious soveraign Lord Charls [sic] II from banishment to his throne / by a loyal pen.</title>
+            <author>Loyal P. E. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45818</idno>
+            <idno type="STC">Wing I1090</idno>
+            <idno type="STC">ESTC R30361</idno>
+            <idno type="EEBO-CITATION">11300145</idno>
+            <idno type="OCLC">ocm 11300145</idno>
+            <idno type="VID">47361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47361)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1464:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iter Australe attempting something upon the happy return of our most gracious soveraign Lord Charls [sic] II from banishment to his throne / by a loyal pen.</title>
+                  <author>Loyal P. E. N.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Leach,</publisher>
+                  <pubPlace>Lonon [sic] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47361:1" rendition="simple:additions"/>
+            <pb facs="tcp:47361:1"/>
+            <p>Iter Auſtrale Attempting ſomething upon the happy Return of our moſt Gracious So<g ref="char:EOLhyphen"/>veraign Lord, CHARLS II. FROM BANISHMENT TO HIS THRONE.</p>
+            <p>By a Loyal Pen.</p>
+            <q>—Virum non arma Cano.</q>
+            <p>
+               <hi>LONON,</hi> Printed by <hi>Tho. Leach,</hi> in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:47361:2"/>
+            <pb n="3" facs="tcp:47361:2"/>
+            <head>The Por<g ref="char:cmbAbbrStroke">̄</g>tal.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>WEe'l no Cronoſtick numbers here</l>
+               <l>Compoſe, to figure out the year</l>
+               <l>Wherein our <hi>Second Charls</hi> did make</l>
+               <l>His Bleſt return; leſt we miſtake.</l>
+               <l>For <hi>Iuſtice</hi> breaking from her Iron Cage</l>
+               <l>Ha's back again reduc'd the <hi>Golden Age;</hi>
+               </l>
+               <l>That <hi>Time</hi> no longer will the old ſtyle bear</l>
+               <l>O'th' <hi>Sixteen Hundredth and the Sixtieth Year.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Nor will we yet preſume to joyn</l>
+               <l>A <hi>Nominal</hi> Letter to each Line,</l>
+               <l>And with our ſlender Art to frame</l>
+               <l>
+                  <hi>Acroſticks</hi> on his Sacred Name,</l>
+               <l>For 'twill be Forgerie to <hi>Interline</hi>
+               </l>
+               <l>Thoſe <hi>Letters Patents Providence</hi> Divine</l>
+               <l>Hath Copyed forth for us in CAPITAL</l>
+               <l>Out of their Heaven-Inrold <hi>Original.</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:47361:3"/>
+            <lg n="3">
+               <head>III.</head>
+               <l>Nor yet to make an <hi>Anagram</hi>
+               </l>
+               <l>Dis joyn the Letters of the ſame:</l>
+               <l>(So Antient <hi>Adam</hi> had the Honor</l>
+               <l>Without all doubt to be the donor)</l>
+               <l>Leſt (as thoſe Lawleſſe Traytors did Tranſlate</l>
+               <l>His <hi>Royal Kingdoms</hi> to a <hi>Rebel State</hi>
+               </l>
+               <l>So) we, whilſt we endeavour to inforce</l>
+               <l>
+                  <hi>A Better Senſe</hi> upon't, ſhould make a <hi>Worſe.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>But yet my <hi>Muſe</hi> would ſomething, ſhe</l>
+               <l>Might demonſtrate her Loyalty;</l>
+               <l>Plain humble verſe ſhe thinks will beſt</l>
+               <l>Her Kneeling Reverence Atteſt.</l>
+               <l>His Beams are ſuch, were not the Poets Bayes</l>
+               <l>Charms againſt Lightning, ſhe durſt not rayſe</l>
+               <l>Her ſelf above the pitch of Proſe — Leſt ſhe</l>
+               <l>Should burn her Plumes, and fall a Scorched fly.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>O might ſhe gain Acceptance, this</l>
+               <l>Would prove her chief, her Maſter-piece:</l>
+               <l>So whilſt the Sun withdraws his Light</l>
+               <l>'Twill ſeem at leaſt an Eagle flight:</l>
+               <l>But if his ſplendor be ſo great that he</l>
+               <l>Cannot pluck in his daz'ling Raies, and ſhe</l>
+               <l>Shall ſtand Convicted of Praeſumption,</l>
+               <l>She ſues the General Act — <hi>Oblivion.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:47361:3"/>
+            <head>Iter Auſtrale, Attempting ſomthing upon the happy return of our moſt gracious Sove<g ref="char:EOLhyphen"/>raign Lord, CHARLES II. From Baniſhment to his THRONE.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>SHoot up thy head my Muſe, thy Foes are flown,</l>
+               <l>Made the retreat to mournful <hi>Helicon:</hi>
+               </l>
+               <l>Come dive no longer, now thou need'ſt not fear</l>
+               <l>Upon the forked Mountain to appear;</l>
+               <l>Put thy neglected Buskins on, and ſhake</l>
+               <l>Thy watry Pineons, and leave the Lake;</l>
+               <l>Fly to <hi>Pernaſſus</hi> Airy top, and ſee</l>
+               <pb n="6" facs="tcp:47361:4"/>
+               <l>What from the high Aſcent thou can'ſt deſcry;</l>
+               <l>And when thou ſhalt diſcern on <hi>Thetis</hi> floor,</l>
+               <l>The royal Navy, wafting <hi>Charles</hi> to ſhore,</l>
+               <l>Go Crown thy gladded brows with flowers whereon</l>
+               <l>The names of Kings have their <hi>Inſcription,</hi>
+               </l>
+               <l>To entertain his bleſt arrival, and</l>
+               <l>Carol his welcom to the happy <hi>Strand.</hi>
+               </l>
+               <l>In the mean time rehearſe thoſe mournful Lays,</l>
+               <l>Thou erſt didſt dedicate unto the praiſe</l>
+               <l>Of <hi>Charles the first:</hi> Go gather up again,</l>
+               <l>Thoſe Quills of <hi>Porcupines</hi> thy high diſdain</l>
+               <l>In a Satyrical diſguiſe did caſt</l>
+               <l>At Traytors Heads, (whoſe Feathers as they paſt,</l>
+               <l>Sung their Prophetick Elogies) and now</l>
+               <l>Shoot, ſhoot in triumph, for their overthrow.</l>
+               <l>But ſtop your ears with black, with mourning wool,</l>
+               <l>Or ſend your twice-repeated griefs to School</l>
+               <l>Amongſt the tortur'd Ghoſts, they may from thence</l>
+               <l>Bring back the Leſſon of forc'd Patience,</l>
+               <l>To hear my now relapſed Muſe relate</l>
+               <l>The Tyranny of our late <hi>Monarchs</hi> Fate.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>NOw that Prophetick <hi>Simile</hi> proves true,</l>
+               <l>
+                  <hi>England</hi>'s <hi>an Axein ſhape,</hi> and nature too:</l>
+               <l>Whilſt ſtartled Conſcience winks, One fatal ſtroak</l>
+               <pb n="7" facs="tcp:47361:4"/>
+               <l>Proſtrates <hi>Great Britains</hi> Tutelary Oak;</l>
+               <l>And reaſon good; Why cumbers it the <hi>Ground?</hi>
+               </l>
+               <l>The Traytors cry, our Providence hath found</l>
+               <l>A better way to Husband it, no more</l>
+               <l>We Beggars-buſhes will, as heretofore,</l>
+               <l>Stand in the barren paths and ways, ſince we</l>
+               <l>To plant our ſelves on his fat ſoil agree.</l>
+               <l>Down with th' imperious Cedars too (they cry)</l>
+               <l>That by their power enfenc'd his Majeſty,</l>
+               <l>From our encroachments; And upon their <hi>Land</hi>
+               </l>
+               <l>The brave aſpiring Poplars ſhall ſtand.</l>
+               <l>The Briery Souldiery ſhall have a ſhare</l>
+               <l>With us, and a Commiſſion to tear</l>
+               <l>Their Golden Fleeces from the backs of thoſe,</l>
+               <l>Whoſe zeal to King, or Conſcience, ſhall expoſe</l>
+               <l>Themſelves unto our mallice; — They'l diſpence</l>
+               <l>With penance in their Robes of Innocence.</l>
+               <l>Thus fell our Gracious <hi>Soveraign,</hi> and they</l>
+               <l>That own'd their Princes cauſe his Fates obey;</l>
+               <l>So the <hi>Barbarians</hi> have a Law that when</l>
+               <l>The Maſter yields to Deſtinie, the Men</l>
+               <l>That were his moſt obſequious Servants muſt</l>
+               <l>Deſcend his Grave, to wait upon his Duſt.</l>
+               <l>Which of his vertues did foment their rage</l>
+               <l>So high, nought but his blood could it aſſwage?</l>
+               <l>Was it his Juſtice? Yes, for they did fear,</l>
+               <l>Before that high Tribunal to appear.</l>
+               <l>Was it his mercy? Yes, 'cauſe he refus'd</l>
+               <l>To murther whom they wrongfully accus'd.</l>
+               <l>Beſides (they ſay) Religion bade them make</l>
+               <pb n="8" facs="tcp:47361:5"/>
+               <l>An holy Warre (forſooth for Conſcience ſake;</l>
+               <l>But ſtay a little, ſtep aſide and ſee</l>
+               <l>How God himſelf was wrong'd as well as he.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>IF Chriſtian Reformation that will prove</l>
+               <l>Wherein the Serpent overcomes the Dove,</l>
+               <l>Farewell ye ſilenc'd Oracles, our Sun</l>
+               <l>Sets in a Cloud, our happy days are done.</l>
+               <l>But ſearch and try (my Muſe) before you ſpeak,</l>
+               <l>Turn not a ſhe <hi>Phanatick</hi> and miſtake:</l>
+               <l>For when their warlike Swords and Muskets drove</l>
+               <l>Out our holy Church, of the peaceful Dove,</l>
+               <l>Amphibious Batts did ſpring up in the night</l>
+               <l>Of blinded zeal, and play'd the Hypocrite;</l>
+               <l>And damned Spirits walk't therein, which make</l>
+               <l>Our Quakers their poſſeſſed joynts to ſhake,</l>
+               <l>And Thou and Thee us all, 'cauſe they foretel,</l>
+               <l>They ſhall find no diſtinctions in Hell.</l>
+               <l>The <hi>Ignis fatuus</hi> of whoſe lights do bend</l>
+               <l>Their paths unto perditions, pit and lend</l>
+               <l>Falſe beams a while unto the fatal Brink,</l>
+               <l>Then (like the Devil) vaniſh in a ſtink.</l>
+               <l>The harmleſs pictures of th' Apoſtles muſt</l>
+               <l>Out of the Temple windows all be thruſt;</l>
+               <l>(They hate ſuch good examples) that before</l>
+               <l>Ungodly men their light might ſhine no more:</l>
+               <l>And why all this? becauſe the Scriptures ſpeak.</l>
+               <l>How <hi>Eutichus</hi> fell thence and br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke his neck.</l>
+               <pb n="9" facs="tcp:47361:5"/>
+               <l>
+                  <hi>Each one ordains himſelf; Mechanick men</hi>
+               </l>
+               <l>
+                  <hi>Set in the Temples up their ſhops agen</hi>
+               </l>
+               <l>
+                  <hi>Which Chriſt himſelf drave out;</hi> theſe ſilly Elves</l>
+               <l>(Gifted from none that I know but themſelves)</l>
+               <l>Pretend to Prophecie, and why not then</l>
+               <l>
+                  <hi>Coblars</hi> of Souls, as <hi>Fiſhers</hi> er'ſt of Men?</l>
+               <l>Diſſembling Souldiers this, and worſe have wrought,</l>
+               <l>And Crucified their Chriſt, but kept his Coat:</l>
+               <l>And the Rump-Senate ſet the Tail where we</l>
+               <l>In vain endeavour'd, that the Head ſhould be.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>HEre give my pious Muſe leave to lament</l>
+               <l>
+                  <hi>Great</hi> Charles <hi>his Crucifixion,</hi> which hath ront</l>
+               <l>Our Church into ſo many Breaches, that</l>
+               <l>Good are thruſt out, bad men thruſt in thereat.</l>
+               <l>And as the Jews aſtoniſh't at the knell</l>
+               <l>When th'holy Temple rang her Paſſing-Bell;</l>
+               <l>
+                  <hi>So when our Faith's Defender Fell, had we</hi>
+               </l>
+               <l>
+                  <hi>Not cauſe to write a mournfull Elegie?</hi>
+               </l>
+               <l>He was both King and Prophet, that he might</l>
+               <l>Yield both to ſubjects, and to God their Right.</l>
+               <l>And theſe two Functions did ſo meet, his Laws</l>
+               <l>Were on the <hi>Decade</hi> but a Paraphraſe.</l>
+               <l>How did he brandiſh the Two-edged Sword</l>
+               <l>Of God's Soul-piercing, Heart-dividing word?</l>
+               <pb n="10" facs="tcp:47361:6"/>
+               <l>Nor ſelfiſh ends, nor falſe opinion</l>
+               <l>Could make him burniſh a falſe Gloſs thereon;</l>
+               <l>Who wrot his name upon't, and his deviſe</l>
+               <l>With the ſtrong <hi>Aqua Fortis</hi> of his Eyes.</l>
+               <l>Then ſee his Life, not like <hi>Cylennius,</hi> whoſe</l>
+               <l>Statue did point the ready way to thoſe</l>
+               <l>Were Pilgrims, 'mongſt the Mountains, &amp; ſtood ſtill</l>
+               <l>Whil'ſt they aſcended the brow-bending Hill;</l>
+               <l>But dy'd a Martyr in a <hi>Good old Cauſe,</hi>
+               </l>
+               <l>Defending both <hi>Divine</hi> and <hi>Humane</hi> Laws.</l>
+               <l>Then come, O Loyal Subject, let us raiſe</l>
+               <l>A Monumental Trophee to his Praiſe.</l>
+               <l>And in ſucceding ages let it ſtand</l>
+               <l>Untouch't; and may that Sacrilegious hand</l>
+               <l>That ſhall by force attempt to raze it, ne're</l>
+               <l>Enjoy the bleſſing of a Sepulcher.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>BUt what though he be murthered, his Son</l>
+               <l>The Prince of <hi>Wales</hi> aſcends his Royal Throne:</l>
+               <l>Come, we may mitigate <hi>Our Griefs,</hi> though we</l>
+               <l>Can ne're enough bewail <hi>His Deſtiny.</hi>
+               </l>
+               <l>No 'tis not ſo, his Fathers Vertues are</l>
+               <l>Deſcended unto him, as lawfull Heir;</l>
+               <l>And it is fit, the Fates do ſay that He</l>
+               <l>Should likewiſe taſte of his Extremitie</l>
+               <pb n="11" facs="tcp:47361:6"/>
+               <l>To countermand ſuch Bleſſings; and be hurl'd</l>
+               <l>In wandring mazes up and down the world:</l>
+               <l>Like to that pious <hi>Heroe,</hi> who did haſt</l>
+               <l>From flaming <hi>Troy,</hi> when as the fire did waſt</l>
+               <l>That Cities ſtately S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ructures, before he</l>
+               <l>Attain the place of his Regallitie.</l>
+               <l>But afer many dereadfull hazards run</l>
+               <l>'Twix Hope and Fear, at length the Scottiſh Crown</l>
+               <l>Is ſet upon his Brows by thoſe that took</l>
+               <l>Pole-money for his Fathers Head, and ſtruck</l>
+               <l>That luckleſs bargain, ſad experience told</l>
+               <l>Prov'd loſs to them that Bought and them that Sold.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>THe Engliſh Rebels hearing this, there comes</l>
+               <l>Their General with an Army, thundring Drums</l>
+               <l>Rore nought but Canon-language, Trumpets ſound</l>
+               <l>A Brazen Perſeverance, they are bound</l>
+               <l>That have engag'd againſt their Prince, to be</l>
+               <l>No more Retreaters to their Loyaltie.</l>
+               <l>
+                  <hi>Charles</hi> hunted out of <hi>Scotland</hi> by the Crew</l>
+               <l>Of theſe purſuing Blood-hell-hounds, he threw</l>
+               <l>Himſelf to <hi>Worſters</hi> Borough to obtain</l>
+               <l>A ſhelter more ſecure, but all in vain:</l>
+               <l>For they diſlodg'd our <hi>Dear,</hi> and made him flie</l>
+               <l>
+                  <hi>For ſafer covert</hi> to a Hollow Tree:</l>
+               <pb n="12" facs="tcp:47361:7"/>
+               <l>And now the Ranging Doggs the ſent have loſt;</l>
+               <l>But would not yet deſiſt, till having croſt</l>
+               <l>The Champian ground twice or'e, they could not finde</l>
+               <l>Their Pray, which thus their Fury had declin'd.</l>
+               <l>Thus did his Majeſty eſcape, whoſe Rayes</l>
+               <l>Heav'ns Providence deſign'd for better daies;</l>
+               <l>And to a Forraign ſoil is fled from hence,</l>
+               <l>Till that Reducing Power recalls him thence.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>ANd now Aſpiring <hi>Oliver</hi> by Force</l>
+               <l>With the <hi>Black Rod</hi> whips the <hi>Rump</hi> out of doors,</l>
+               <l>And makes himſelf Protector; Thus we ſee</l>
+               <l>Treaſon 'mongſt Traytors ſometimes there may be:</l>
+               <l>One <hi>Interregnum</hi> thus encludes its Brother;</l>
+               <l>Here's one Parentheſis within another:</l>
+               <l>Time-ſervers tongues, Lick'd (out of Hope or Fear,</l>
+               <l>Into a Formal Lamb this Savage Bear.</l>
+               <l>One would have him a <hi>David,</hi> (cauſe he went</l>
+               <l>To <hi>Lamberts</hi> wife, when he was in his Tent.)</l>
+               <l>A ſecond, <hi>Moſes</hi> ſtyled him, (for why</l>
+               <l>His ſhining Noſe made the Synecdoche:)</l>
+               <l>And Moſt were ſo beſotted that they found</l>
+               <l>No grief at all; For hard Opreſſion ground</l>
+               <l>Their Faces with ſuch cruelty, that there</l>
+               <l>Did no impreſſions of diſlike appear.</l>
+               <pb n="13" facs="tcp:47361:7"/>
+               <l>But Providence at laſt to purge our Ayr</l>
+               <l>From this moſt noyſome Vapour, did prepare</l>
+               <l>A wind to drive him hence, and ſent him gone</l>
+               <l>To his deſerved place; and ſtraight his Son</l>
+               <l>
+                  <hi>Richard</hi> aſſumes the Load, and all adore</l>
+               <l>The Aſs, (but for the Burthen which he bore.)</l>
+               <l>Some thought he would again our King recall,</l>
+               <l>But yet the Gooſe ſav'd not our Capitoll.</l>
+               <l>
+                  <hi>Lambert</hi> Degrades him preſently, and then</l>
+               <l>The Rump let looſe, ran to their ſtools agen.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>BUt they muſt turn out too, and not repine</l>
+               <l>But to the <hi>Walling fordians</hi> reſign</l>
+               <l>Their late acquired power, the <hi>Rump</hi> again</l>
+               <l>Is thruſt beſides the Cuſhion, may not Raign;</l>
+               <l>And now great <hi>Monk</hi> advances over <hi>Tweed,</hi>
+               </l>
+               <l>The Priviledge of Parliaments to plead,</l>
+               <l>But his VVhite-powder gave no crack; for he</l>
+               <l>Wrought not ſo much by Power as Policie.</l>
+               <l>All are reſtor'd again, nay more then that,</l>
+               <l>For each <hi>Secluded Member</hi> takes his ſeat</l>
+               <l>Among the reſt; I hope we may not fear</l>
+               <l>To ſtyle the King, <hi>Monks</hi> Privy Counceller.</l>
+               <l>The Royal Party make it their Reſolve.</l>
+               <l>With all the ſpeed that may be to diſſolve</l>
+               <pb n="14" facs="tcp:47361:8"/>
+               <l>The now Divided Houſe, with an intent</l>
+               <l>To make room for another Parliament;</l>
+               <l>Which might the <hi>Great Work</hi> do, and ſo agree</l>
+               <l>To paſs a <hi>Fine</hi> without <hi>Recoverie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Fly then ye reſtleſs Furies, fly, begon;</l>
+               <l>No more the Mazes of Confuſion</l>
+               <l>In <hi>Brittains</hi> Soyle; trace out, hence off, make room</l>
+               <l>For gentle Fayries, their glad feet may come</l>
+               <l>And Dance the Rings of Everlaſting Peace</l>
+               <l>Ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut our Bleſſed Iſle, ſo that the Seas</l>
+               <l>Of Violence and Rapine may no more,</l>
+               <l>Caſt their unheard of Monſters on our Shore.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>THe Senate is Aſſembled, which receives</l>
+               <l>The Styl e'oth <hi>Peoples Repeſentatives</hi>
+               </l>
+               <l>Now in a down-right ſenſe; they are the Glaſs</l>
+               <l>Wherein his Subjects may ſee their Kings Face;</l>
+               <l>And eas'ly apprehend there doth abide,</l>
+               <l>A Silver'd plenty on the other ſide:</l>
+               <l>Their <hi>Rumpſhips Breeches</hi> now no more ſhall be</l>
+               <l>The Impreſs of our Lawfull Coyn; But we,</l>
+               <l>For his Reward who did bring home our King,</l>
+               <l>Shall have Great <hi>George on Horſeback</hi> ride the Ring.</l>
+            </lg>
+            <lg>
+               <l>As when the Earth bewailes in Mourning Weeds</l>
+               <l>The abſence of the long ſet Sun, and dreads</l>
+               <pb n="15" facs="tcp:47361:8"/>
+               <l>A Non-repeated Courſe, the Gray-ey'd Morn</l>
+               <l>Giving a ſignal of his bleſt Return,</l>
+               <l>She then puts off her Cypreſs vayl, that He,</l>
+               <l>Might wipe her dewy Tears away; ſo we,</l>
+               <l>For <hi>Charle, his Wains</hi> Declenſion had vowd</l>
+               <l>Our Souls all Proſelites to grief, and bowd</l>
+               <l>Our necks unto her Altars; Till from far</l>
+               <l>Unto our Watry eyes there did appear,</l>
+               <l>
+                  <hi>Monck</hi> in a Scottiſh Miſt, who ſtraight did pour</l>
+               <l>On Engliſh Rebels heads, a drowning ſhower:</l>
+               <l>Which having done, the Coaſt began to clear,</l>
+               <l>And ſtraight upon our Engliſh Hemiſphere</l>
+               <l>We did expect that Star ſhould riſe and be</l>
+               <l>Exlated to its Regal Dignitie.</l>
+               <l>And whileſt our King makes ready to Return,</l>
+               <l>With Zeal inflamed Joys our Hearts do burn.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>THe Brittiſh Seas Fly to a Forrein ſhore,</l>
+               <l>With an unwonted ſpeed, to waft Him o're,</l>
+               <l>And make their Inroads on the Continent</l>
+               <l>That ſtill detain's their Lord, and when they've ſpent</l>
+               <l>Their ſtrength in vain, they backward bend their courſe</l>
+               <l>They may aſſayl it with a greater Force:</l>
+               <l>And having wun the Field, and got their Prize,</l>
+               <l>Ev'n Rarifi'd with joy, they Skale the Skyes</l>
+               <pb n="16" facs="tcp:47361:9"/>
+               <l>To fetch the Clouds from thence, whoſe waters may</l>
+               <l>Send their Aſſiſtance to the happy Bay.</l>
+               <l>Both Heaven and Earth (for nought elſe yet we ſee)</l>
+               <l>Fight for, or yield to CHARLES his Potencie.</l>
+               <l>
+                  <hi>Neptune</hi> his Trident brings, and will not own</l>
+               <l>A Scepter ſuiting to a Triple Crown:</l>
+               <l>
+                  <hi>Iris,</hi> that ſtour Virago, thinks it fit</l>
+               <l>To paint her Bow with <hi>Purple, Green,</hi> &amp; <hi>White</hi>
+               </l>
+               <l>To ſhew whoſe cauſe ſhe owns; Heaven would have made</l>
+               <l>Her ſtragling Meteors Torch-bearers i'th' ſhade</l>
+               <l>Of wandring Night, the Royal ſhip might ſtear</l>
+               <l>Aright amidſt the Waves, but that there were</l>
+               <l>So many Bonefires on the ſhore that forc't</l>
+               <l>A day when <hi>Tytans</hi> Chariot was unhorſt.</l>
+            </lg>
+            <lg>
+               <l>Now! now he ſails in view! but yet no land</l>
+               <l>Appears unto his ſight, the people ſtand</l>
+               <l>So thick (like King-Fiſhers) upon the Coaſt,</l>
+               <l>Th' Inhabitants he found, the Iſle he loſt.</l>
+            </lg>
+            <lg>
+               <l>Some wiſh themſelves <hi>Arions</hi> Dolphin, they</l>
+               <l>Might ſhoot into the Waves and bear away</l>
+               <l>Their wiſhed King to Land; and ſome would be</l>
+               <l>Int' Eagles Metamorphos'd, that from Sea</l>
+               <l>They might bring <hi>Charles the Great,</hi> as it is told</l>
+               <l>That feather'd Prince did bear the child of old.</l>
+               <l>All would be <hi>Chriſtophers</hi> that they might bring</l>
+               <l>Unto the happy ſhore their welcome KING.</l>
+               <l>How did the people croud to ſee him ſet</l>
+               <l>His foot on Engliſh ground? He ſcarce could get</l>
+               <l>Room to Aſcend; and thus their very Love</l>
+               <l>And Loyaltie did Petit Treaſon prove.</l>
+            </lg>
+            <pb n="17" facs="tcp:47361:9"/>
+            <lg n="11">
+               <head>XI.</head>
+               <l>The Guns report his Landing, poſting Fame</l>
+               <l>Rode all the ſtaged Cannons as ſhe came</l>
+               <l>Quite out of breath, and fainting, ſhort had flown,</l>
+               <l>But Fleeter <hi>Eccho</hi> lent her Wings to Town.</l>
+               <l>The Bells rack'd on their turning wheels Confeſſe</l>
+               <l>The happy news to all the Pariſhes,</l>
+               <l>Whilſt to their tuning Cords the Steeples dance</l>
+               <l>For joy at this their great Deliverance.</l>
+            </lg>
+            <lg>
+               <l>The Citizens began to curſe the Day</l>
+               <l>Gave Birth unto our Civil Wars, that they that fell</l>
+               <l>Could not rebuild great <hi>Pauls</hi> his Spire,</l>
+               <l>As an Ill-boading <hi>Omen</hi> to foretell,</l>
+               <l>The Ruine of the Church) ſo that they might</l>
+               <l>Have now aſcended his prodigious Height</l>
+               <l>To view <hi>Charls</hi> in his Progreſſe, guarded by</l>
+               <l>The Quinteſſence of <hi>England</hi> Cavalry;</l>
+               <l>Whilſt Loyal-hearted Subjects made a Lane</l>
+               <l>Fenc'd with a double Quick-ſet Hedge, and ſtrain</l>
+               <l>Their Throats, like merry Birds therein, ſo ſing</l>
+               <l>The bleſſed Reſtauration of their King,</l>
+               <l>That now at <hi>Black-Heath</hi> makes a ſtand, to greet</l>
+               <l>Them Graciouſly, that at his Royal Feet</l>
+               <l>Caſt themſelves down for Pardon, and ariſe</l>
+               <l>In his Defence againſt his Enemies.</l>
+               <l>Thence They conduct him to his Throne, and He</l>
+               <l>Aſſumes his double-ſtaft Suprem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy.</l>
+            </lg>
+            <pb n="18" facs="tcp:47361:10"/>
+            <lg n="12">
+               <head>XII.</head>
+               <l>REturn'd! O happy News! Is <hi>Charles his Wain</hi>
+               </l>
+               <l>On our Horizon wheel'd up once again,</l>
+               <l>(And drawn with Doves, which tacitely expreſs</l>
+               <l>This Emblem'd Motto, <hi>Conquerer by Peace.</hi>)</l>
+               <l>Go ſcotch the Orb, ye God's, this Chariot may</l>
+               <l>Run the Olympick Chace no more, but ſtay</l>
+               <l>Till pale-fac't Death ſets up the <hi>White,</hi> which done</l>
+               <l>May <hi>Ariadne</hi>'s Star be-ſtudded Crown</l>
+               <l>Enſhrine his noble Brows, may he appear</l>
+               <l>In <hi>Caſsiopeias</hi> High Imperial Chair,</l>
+               <l>A Star of the firſt Magnitude, and be</l>
+               <l>As in his proper Seat and Dignity.</l>
+               <l>Go ſcotch the Orb till then, we may no more</l>
+               <l>His Peregrined Aſpects here deplore.</l>
+            </lg>
+            <lg>
+               <l>Then let our Joyes, O Loyal Subjects, Dance</l>
+               <l>The Flouriſhes of our Deliverance</l>
+               <l>Upon our Raviſh'd Heart-ſtrings, and our Tongues</l>
+               <l>Sing Conſort to them with Bliſs-brimmed Songs,</l>
+               <l>Since Providence our Monarch doth Recall</l>
+               <l>From Miſeries <hi>Black-Heath,</hi> to Joyes <hi>White-Hall.</hi>
+               </l>
+            </lg>
+            <trailer>Vivo le Roy.</trailer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47361:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
